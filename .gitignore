@@ -1,0 +1,6 @@
+# build artifacts
+DiscordSwearBot/bin/
+DiscordSwearBot/obj/
+
+# vs cache/options
+.vs/
